@@ -1,8 +1,4 @@
 
-Евгений Билан <eugene.bilan@gmail.com>
-22:10 (0 минут назад)
-кому: я
-
 # Website Framework
 # Overview
 
